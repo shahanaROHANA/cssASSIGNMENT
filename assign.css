@@ -1,0 +1,35 @@
+h1{text-align: center;
+
+}
+div {
+    margin: auto;
+            width: 1000px;
+            height: 1000px;
+            border: 3px solid black;
+            padding: 10px
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+.sana {
+    background-color: aqua;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 400px;
+    padding-top: 20px;
+    
+}
+.shana {
+    background-color: white;
+
+    width: 800px;
+    height: 800px;
+    border: 3px black;
+    padding: 10px;
+    border-radius: 10px;
+}
+.sha{text-align: center;
+background-color: #0000ff;}
+
+    
